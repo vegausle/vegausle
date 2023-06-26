@@ -1,35 +1,35 @@
 [{
-    "name": "2545.2545 Auditorium",
+    "name": "2545.Auditorium",
     "head": "",
     "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 Study/Research Rooms",
+    "name": "2545.Study/Research Rooms",
     "head": "",
     "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 Play Spaces",
+    "name": "2545.Play Spaces",
     "head": "",
     "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 Photography Studio",
+    "name": "2545.Photography Studio",
     "head": "",
     "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 Education Rooms",
+    "name": "2545.Education Rooms",
     "head": "",
     "imports": ["s.EDUCATION"]
   }, 
   {
-    "name": "2545.2545 Library/Reading Rooms",
+    "name": "2545.Library/Reading Rooms",
     "head": "",
     "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2546.2546 Collection Store",
+    "name": "2546.Collection Store",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
