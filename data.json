@@ -1,47 +1,57 @@
 [{
-    "name": "2545.2545 AAAA01",
+    "name": "2545.2545 Auditorium",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 AAAA02",
+    "name": "2545.2545 Study/Research Rooms",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 AAAA03",
+    "name": "2545.2545 Play Spaces",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2545.2545 AAAA04 (Live)",
+    "name": "2545.2545 Photography Studio",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2546.2546 ว่าพรือน้องสาว",
+    "name": "2545.2545 Education Rooms",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["s.EDUCATION"]
+  }, 
+  {
+    "name": "2545.2545 Library/Reading Rooms",
+    "head": "",
+    "imports": ["s.EDUCATION"]
   },
   {
-    "name": "2546.2546 SH",
+    "name": "2546.2546 Collection Store",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 เจ๊า",
+    "name": "2546.2546 Exhibition Preparation Workshop (Clean)",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 ผีหลอก",
+    "name": "2546.2546 Conservation Labs",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 นอน",
+    "name": "2546.2546 Exhibition Preparation Workshop (Dirty)",
     "head": "",
-    "imports": ["x.EDUCATION"]
+    "imports": ["t.EXHIBITION BOH"]
+  },
+  {
+    "name": "2546.2546 Crating/Uncrating Areas",
+    "head": "",
+    "imports": ["t.EXHIBITION BOH"]
   },
   {
     "name": "2546.2546 สิงห์เหนือเสือใต้",
