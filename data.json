@@ -28,63 +28,188 @@
     "head": "",
     "imports": ["s.EDUCATION"]
   },
-  {
+    {
     "name": "2546.Collection Store",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 Exhibition Preparation Workshop (Clean)",
+    "name": "2546.Exhibition Preparation Workshop (Clean)",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 Conservation Labs",
+    "name": "2546.Conservation Labs",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 Exhibition Preparation Workshop (Dirty)",
+    "name": "2546.Exhibition Preparation Workshop (Dirty)",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 Crating/Uncrating Areas",
+    "name": "2546.Crating/Uncrating Areas",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2546.2546 Crating/Uncrating Areas",
+    "name": "2546.Crate Storage",
     "head": "",
     "imports": ["t.EXHIBITION BOH"]
   },
   {
-    "name": "2547.2547 Crating/Uncrating Areas",
+    "name": "2547.Café/Bar/Restaurant",
+    "head": "",
+    "imports": ["u.RETAIL"]
+  }, 
+  {
+    "name": "2547.Shop",
     "head": "",
     "imports": ["u.RETAIL"]
   },
   {
-    "name": "2548.2548 Crating/Uncrating Areas",
+    "name": "2548.Shipping & Receiving Facilities ",
+    "head": "",
+    "imports": ["v.LOGISTICS"]
+  }, 
+  {
+    "name": "2548.Loading/Unloading Bay",
     "head": "",
     "imports": ["v.LOGISTICS"]
   },  
   {
-    "name": "2549.2549 Crating/Uncrating Areas",
+    "name": "2548.Packing Materials Storage",
+    "head": "",
+    "imports": ["v.LOGISTICS"]
+  },
+  {
+    "name": "2548.Furniture Storage",
+    "head": "",
+    "imports": ["v.LOGISTICS"]
+  }, 
+  {
+    "name": "2548.Electrical Equipment Storage",
+    "head": "",
+    "imports": ["v.LOGISTICS"]
+  }, 
+  {
+    "name": "2548.Carpentry Storage",
+    "head": "",
+    "imports": ["v.LOGISTICS"]
+  },  
+  {
+    "name": "2548.Chemical/Flamable Storage",
+    "head": "",
+    "imports": ["v.LOGISTICS"]
+  }, 
+  {
+    "name": "2549.Green Room / VIP Space",
     "head": "",
     "imports": ["w.VIP"]
   },  
   {
-    "name": "2550.2550 Crating/Uncrating Areas",
+    "name": "2550.Entrance / Vestuibules",
     "head": "",
     "imports": ["x.ACCESS"]
   },
   {
-    "name": "2551.2551 Crating/Uncrating Areas",
+    "name": "2550.Orientation",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.Prayer Room",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.First Aid Room",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.Security Control",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.Assembly (Foyer / Lobby)",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.Admissions",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },  
+  {
+    "name": "2550.Approach",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.Toilets / Cloakrooms",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2550.Transit Store",
+    "head": "",
+    "imports": ["x.ACCESS"]
+  },
+  {
+    "name": "2551.Retail BOH",
+    "head": "",
+    "imports": ["y.BOH"]
+  },    
+  {
+    "name": "2551.Staff Offices & Meeting Rooms",
+    "head": "",
+    "imports": ["y.BOH"]
+  },
+  {
+    "name": "2551.Cleaning Storage",
+    "head": "",
+    "imports": ["y.BOH"]
+  },
+  {
+    "name": "2551.Corridors and Passageways",
+    "head": "",
+    "imports": ["y.BOH"]
+  },
+  {
+    "name": "2551.Server Room",
+    "head": "",
+    "imports": ["y.BOH"]
+  }, 
+  {
+    "name": "2551.Comercial & Prep Kitchens",
     "head": "",
     "imports": ["y.BOH"]
   },  
   {
-    "name": "2552.2552 Crating/Uncrating Areas",
+    "name": "2551.F&B BOH",
+    "head": "",
+    "imports": ["y.BOH"]
+  },
+  {
+    "name": "2551.Building Management Control",
+    "head": "",
+    "imports": ["y.BOH"]
+  },
+  {
+    "name": "2551.Staff Amenities",
+    "head": "",
+    "imports": ["y.BOH"]
+  },
+  {
+    "name": "2552.Exhibition & Display Spaces (Permanent)",
+    "head": "",
+    "imports": ["z.EXHIBITION"]
+  },
+  {
+    "name": "2552.Exhibition & Display Spaces (Temporary)",
     "head": "",
     "imports": ["z.EXHIBITION"]
   },
