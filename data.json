@@ -4,6 +4,11 @@
     "imports": ["s.EDUCATION"]
   },
   {
+    "name": "2545.Auditorium",
+    "head": "",
+    "imports": ["2545.Study/Research Rooms","2545.Play Spaces"]
+  },
+  {
     "name": "2545.Study/Research Rooms",
     "head": "",
     "imports": ["s.EDUCATION"]
