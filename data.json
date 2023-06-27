@@ -216,7 +216,7 @@
   {
     "name": "s.EDUCATION",
     "head": "",
-    "imports": []
+    "imports": ["2545.Auditorium","2545.Study/Research Rooms",]
   },
   {
     "name": "t.EXHIBITION BOH",
