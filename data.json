@@ -1,7 +1,7 @@
 [{
     "name": "2545.Auditorium",
     "head": "",
-    "imports": ["s.EDUCATION","2545.Study/Research Rooms","2545.Play Spaces"]
+    "imports": ["s.EDUCATION"]
   },
   {
     "name": "2545.Study/Research Rooms",
