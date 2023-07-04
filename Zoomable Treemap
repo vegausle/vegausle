@@ -1,0 +1,50 @@
+[
+    {
+        "name": "A",
+        "children": [
+            {
+            "name": "a1",
+            "children": [
+            {
+                "name": "aa", "colour": "#f0e2a3"
+            },
+            {
+                "name": "ab", "colour": "#ede487"
+            }
+            ]
+            }
+        ]
+    },
+    {
+        "name": "B",
+        "children": [
+            {
+            "name": "b1",
+            "children": [
+            {
+                "name": "ba", "colour": "#f0e2a3"
+            },
+            {
+                "name": "bb", "colour": "#ede487"
+            }
+            ]
+            }
+        ]
+    },
+    {
+        "name": "C",
+        "children": [
+            {
+            "name": "c1",
+            "children": [
+            {
+                "name": "ca", "colour": "#f0e2a3"
+            },
+            {
+                "name": "cb", "colour": "#ede487"
+            }
+            ]
+            }
+        ]
+    }
+]
