@@ -1,256 +1,371 @@
 [{
-    "name": "2545.Auditorium",
-    "head": "",
-    "imports": ["s.EDUCATION"]
-  },
+  "name": "2545.Auditorium",
+  "head": "",
+  "imports": ["o.EDUCATION"]
+},
+{
+  "name": "2545.Study/Research Rooms",
+  "head": "",
+  "imports": ["o.EDUCATION"]
+},
+{
+  "name": "2545.Play Spaces",
+  "head": "",
+  "imports": ["o.EDUCATION"]
+},
+{
+  "name": "2545.Photography Studio",
+  "head": "",
+  "imports": ["o.EDUCATION"]
+},
+{
+  "name": "2545.Education Rooms",
+  "head": "",
+  "imports": ["o.EDUCATION"]
+}, 
+{
+  "name": "2545.Library/Reading Rooms",
+  "head": "",
+  "imports": ["o.EDUCATION"]
+},
   {
-    "name": "2545.Study/Research Rooms",
-    "head": "",
-    "imports": ["s.EDUCATION"]
-  },
-  {
-    "name": "2545.Play Spaces",
-    "head": "",
-    "imports": ["s.EDUCATION"]
-  },
-  {
-    "name": "2545.Photography Studio",
-    "head": "",
-    "imports": ["s.EDUCATION"]
-  },
-  {
-    "name": "2545.Education Rooms",
-    "head": "",
-    "imports": ["s.EDUCATION"]
-  }, 
-  {
-    "name": "2545.Library/Reading Rooms",
-    "head": "",
-    "imports": ["s.EDUCATION"]
-  },
-    {
-    "name": "2546.Collection Store",
-    "head": "",
-    "imports": ["t.EXHIBITION BOH"]
-  },
-  {
-    "name": "2546.Exhibition Preparation Workshop (Clean)",
-    "head": "",
-    "imports": ["t.EXHIBITION BOH"]
-  },
-  {
-    "name": "2546.Conservation Labs",
-    "head": "",
-    "imports": ["t.EXHIBITION BOH"]
-  },
-  {
-    "name": "2546.Exhibition Preparation Workshop (Dirty)",
-    "head": "",
-    "imports": ["t.EXHIBITION BOH"]
-  },
-  {
-    "name": "2546.Crating/Uncrating Areas",
-    "head": "",
-    "imports": ["t.EXHIBITION BOH"]
-  },
-  {
-    "name": "2546.Crate Storage",
-    "head": "",
-    "imports": ["t.EXHIBITION BOH"]
-  },
-  {
-    "name": "2547.Café/Bar/Restaurant",
-    "head": "",
-    "imports": ["u.RETAIL"]
-  }, 
-  {
-    "name": "2547.Shop",
-    "head": "",
-    "imports": ["u.RETAIL"]
-  },
-  {
-    "name": "2548.Shipping & Receiving Facilities ",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  }, 
-  {
-    "name": "2548.Loading/Unloading Bay",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  },  
-  {
-    "name": "2548.Packing Materials Storage",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  },
-  {
-    "name": "2548.Furniture Storage",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  }, 
-  {
-    "name": "2548.Electrical Equipment Storage",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  }, 
-  {
-    "name": "2548.Carpentry Storage",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  },  
-  {
-    "name": "2548.Chemical/Flamable Storage",
-    "head": "",
-    "imports": ["v.LOGISTICS"]
-  }, 
-  {
-    "name": "2549.Green Room / VIP Space",
-    "head": "",
-    "imports": ["w.VIP"]
-  },  
-  {
-    "name": "2550.Entrance / Vestuibules",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Orientation",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Prayer Room",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.First Aid Room",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Security Control",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Assembly (Foyer / Lobby)",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Admissions",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },  
-  {
-    "name": "2550.Approach",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Toilets / Cloakrooms",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2550.Transit Store",
-    "head": "",
-    "imports": ["x.ACCESS"]
-  },
-  {
-    "name": "2551.Retail BOH",
-    "head": "",
-    "imports": ["y.BOH"]
-  },    
-  {
-    "name": "2551.Staff Offices & Meeting Rooms",
-    "head": "",
-    "imports": ["y.BOH"]
-  },
-  {
-    "name": "2551.Cleaning Storage",
-    "head": "",
-    "imports": ["y.BOH"]
-  },
-  {
-    "name": "2551.Corridors and Passageways",
-    "head": "",
-    "imports": ["y.BOH"]
-  },
-  {
-    "name": "2551.Server Room",
-    "head": "",
-    "imports": ["y.BOH"]
-  }, 
-  {
-    "name": "2551.Comercial & Prep Kitchens",
-    "head": "",
-    "imports": ["y.BOH"]
-  },  
-  {
-    "name": "2551.F&B BOH",
-    "head": "",
-    "imports": ["y.BOH"]
-  },
-  {
-    "name": "2551.Building Management Control",
-    "head": "",
-    "imports": ["y.BOH"]
-  },
-  {
-    "name": "2551.Staff Amenities",
-    "head": "",
-    "imports": ["y.BOH"]
-  },
-  {
-    "name": "2552.Exhibition & Display Spaces (Permanent)",
-    "head": "",
-    "imports": ["z.EXHIBITION"]
-  },
-  {
-    "name": "2552.Exhibition & Display Spaces (Temporary)",
-    "head": "",
-    "imports": ["z.EXHIBITION"]
-  },
-  {
-    "name": "s.EDUCATION",
-    "head": "",
-    "imports": []
-  },
-  {
-    "name": "t.EXHIBITION BOH",
-    "head": "",
-    "imports": []
-  },  
-  {
-    "name": "u.RETAIL",
-    "head": "",
-    "imports": []
-  },
-  {
-    "name": "v.LOGISTICS",
-    "head": "",
-    "imports": []
-  },
-  {
-    "name": "w.VIP",
-    "head": "",
-    "imports": []
-  },
-  {
-    "name": "x.ACCESS",
-    "head": "",
-    "imports": []
-  },
-  {
-    "name": "y.BOH",
-    "head": "",
-    "imports": []
-  },
-  {
-    "name": "z.EXHIBITION",
-    "head": "",
-    "imports": []
-  }]
+  "name": "2546.Collection Store",
+  "head": "",
+  "imports": ["p.OFFICES"]
+},
+{
+  "name": "2546.Exhibition Preparation Workshop (Clean)",
+  "head": "",
+  "imports": ["p.OFFICES"]
+},
+{
+  "name": "2546.Conservation Labs",
+  "head": "",
+  "imports": ["p.OFFICES"]
+},
+{
+  "name": "2546.Exhibition Preparation Workshop (Dirty)",
+  "head": "",
+  "imports": ["p.OFFICES"]
+},
+{
+  "name": "2546.Crating/Uncrating Areas",
+  "head": "",
+  "imports": ["p.OFFICES"]
+},
+{
+  "name": "2546.Crate Storage",
+  "head": "",
+  "imports": ["p.OFFICES"]
+},
+{
+  "name": "2548.Ballroom",
+  "head": "",
+  "imports": ["q.EVENTS"]
+}, 
+{
+  "name": "2548.Conference Room",
+  "head": "",
+  "imports": ["q.EVENTS"]
+}, 
+{
+  "name": "2548.Transit Store",
+  "head": "",
+  "imports": ["q.EVENTS"]
+}, 
+{
+  "name": "2548.Cafe/Bar",
+  "head": "",
+  "imports": ["q.EVENTS"]
+}, 
+{
+  "name": "2549.Café/Bar/Restaurant",
+  "head": "",
+  "imports": ["r.F&B"]
+}, 
+{
+  "name": "2549.Shop",
+  "head": "",
+  "imports": ["r.F&B"]
+},
+{
+  "name": "2550.Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+}, 
+{
+  "name": "2550.Shipping & Receiving Facilities",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+}, 
+{
+  "name": "2550.Loading/Unloading Bay",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+},  
+{
+  "name": "2550.Packing Materials Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+},
+{
+  "name": "2550.Furniture Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+}, 
+{
+  "name": "2550.Electrical Equipment Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+}, 
+{
+  "name": "2550.Suplies Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+},
+{
+  "name": "2550.Carpentry Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+},  
+{
+  "name": "2550.Chemical/Flamable Storage",
+  "head": "",
+  "imports": ["s.LOGISTICS"]
+}, 
+{
+  "name": "2551.Green Room",
+  "head": "",
+  "imports": ["t.VIP"]
+},  
+{
+  "name": "2551.VIP Space",
+  "head": "",
+  "imports": ["t.VIP"]
+},
+{
+  "name": "2552.Entrance / Vestuibules",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Orientation",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Prayer Room",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.First Aid Room",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Security Control",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Assembly (Foyer/Lobby)",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Admissions",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},  
+{
+  "name": "2552.Approach",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Toilets/Cloakrooms",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2552.Transit Store",
+  "head": "",
+  "imports": ["u.ACCESS"]
+},
+{
+  "name": "2553.Museum Shop and others",
+  "head": "",
+  "imports": ["v.RETAIL"]
+},
+{
+  "name": "2554.Residences",
+  "head": "",
+  "imports": ["w.R&D"]
+},
+{
+  "name": "2554.Reception",
+  "head": "",
+  "imports": ["w.R&D"]
+},
+{
+  "name": "2554.Corridors and Passageways",
+  "head": "",
+  "imports": ["w.R&D"]
+},
+{
+  "name": "2554.Cafe/Bar/Restaurant",
+  "head": "",
+  "imports": ["w.R&D"]
+},
+{
+  "name": "2555.Reception",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2555.Fab.Lab",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2555.Digital Space",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2555.Meetings Rooms",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2555.Wind Down Space",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2555.Toilets",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2555.Cafe",
+  "head": "",
+  "imports": ["x.COLL.LAB"]
+},
+{
+  "name": "2556.Retail BOH",
+  "head": "",
+  "imports": ["y.BOH"]
+},    
+{
+  "name": "2556.Staff Offices & Meeting Rooms",
+  "head": "",
+  "imports": ["y.BOH"]
+},
+{
+  "name": "2556.Cleaning Storage",
+  "head": "",
+  "imports": ["y.BOH"]
+},
+{
+  "name": "2556.Corridors and Passageways",
+  "head": "",
+  "imports": ["y.BOH"]
+},
+{
+  "name": "2556.Server Room",
+  "head": "",
+  "imports": ["y.BOH"]
+}, 
+{
+  "name": "2556.Comercial & Prep Kitchens",
+  "head": "",
+  "imports": ["y.BOH"]
+},  
+{
+  "name": "2556.F&B BOH",
+  "head": "",
+  "imports": ["y.BOH"]
+},
+{
+  "name": "2556.Building Management Control",
+  "head": "",
+  "imports": ["y.BOH"]
+},
+{
+  "name": "2556.Staff Amenities",
+  "head": "",
+  "imports": ["y.BOH"]
+},
+{
+  "name": "2557.Exhibition & Display Spaces (Permanent)",
+  "head": "",
+  "imports": ["z.EXHIBITION"]
+},
+{
+  "name": "2557.Exhibition & Display Spaces (Temporary)",
+  "head": "",
+  "imports": ["z.EXHIBITION"]
+},
+{
+  "name": "o.EDUCATION",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "p.OFFICES",
+  "head": "",
+  "imports": []
+},  
+{
+  "name": "q.EVENTS",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "r.F&B",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "s.LOGISTICS",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "t.VIP",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "u.ACCESS",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "v.RETAIL",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "w.R&D",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "x.COLL.LAB",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "y.BOH",
+  "head": "",
+  "imports": []
+},
+{
+  "name": "z.EXHIBITION",
+  "head": "",
+  "imports": []
+}]
 
